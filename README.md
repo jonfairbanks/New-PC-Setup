@@ -1,4 +1,8 @@
 # New PC Setup
+
+![new-pc-setup](https://i.kinja-img.com/gawker-media/image/upload/s--5RPd1Gcm--/c_scale,f_auto,fl_progressive,q_80,w_800/ep6ercrum3x73dzfkgr7.jpg)
+
+
 Recommended software for your new computer
 
 

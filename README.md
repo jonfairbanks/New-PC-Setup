@@ -27,6 +27,8 @@ Recommended software for your new computer
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - In-depth GPU stats and graphs
 * [Java Runtime](https://www.java.com/en/download/) - Required to run any Java application
 * [WinRAR](https://www.rarlab.com/download.htm) - ZIP/RAR Extractor. Long live the free trial!
+* [WinDirStat](https://windirstat.net/) - Visually see what's taking up storage space
+* [Etcher](https://www.balena.io/etcher/) - Read/write image files  
 
 #### Internet
 * [Chrome](https://www.google.com/chrome/)
